@@ -1,0 +1,11 @@
+{
+  "name": "health_surveillance_backend",
+  "version": "1.0.0",
+  "description": "Backend components that communicate with the Blockchain and relay information to the front-end after a few logic manipulations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katongole Allan",
+  "license": "ISC"
+}
